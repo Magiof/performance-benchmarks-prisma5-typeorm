@@ -1,6 +1,7 @@
 HOW TO TEST
 ```
-clone
+clone this repository
+
 $ npm i
 $ npm run prisma:generate:dev
 $ npm run start:dev
