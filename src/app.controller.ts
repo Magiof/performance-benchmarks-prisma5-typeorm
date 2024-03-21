@@ -43,6 +43,6 @@ export class AppController {
       createDataByTypeOrm,
       getUsersByPrisma,
       getUsersByTypeOrm,
-    ].join('\n');
+    ].join();
   }
 }
